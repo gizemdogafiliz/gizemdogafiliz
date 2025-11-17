@@ -14,7 +14,7 @@
 - Implemented **MDP planner with Bayesian belief updating** for intelligent motion planning
 - Designed **adaptive stiffness control algorithm** with real-time surface normal estimation
 
-### 🤲 PRISMA Lab - University of Naples Federico II
+### 🤖 PRISMA Lab - University of Naples Federico II
 *June - September 2024*
 - Designed and built **Hand Exoskeleton** with 4-bar linkage system
 - Implemented **Machine Learning algorithms for EMG-based control**
@@ -23,4 +23,5 @@
 ---
 
 ⚡ *"Building intelligent robots that can see, feel, and adapt to their environment"*
+
 
