@@ -20,23 +20,7 @@
 - Implemented **Machine Learning algorithms for EMG-based control**
 - Real-time hand state classification and exoskeleton actuation
 
-## 🛠️ Technical Skills
-
-**Programming & Tools:**
-- `Python` `C++` `Java` `MATLAB/Simulink`
-- `ROS` `JAX` `TensorFlow` `PyTorch`
-
-**Robotics:**
-- `Franka Emika Panda` `Force-Impedance Control` `Visual Servoing`
-- `Kinematics & Dynamics` `Motion Planning` `Path Planning`
-
-**Computer Vision:**
-- `OpenCV` `Point Cloud Processing` `Camera Calibration`
-- `IBVS/PBVS` `Feature Extraction` `Homography Estimation`
-
-**Design & Simulation:**
-- `SolidWorks` `LTSpice` `Autolev`
-
 ---
 
 ⚡ *"Building intelligent robots that can see, feel, and adapt to their environment"*
+
