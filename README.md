@@ -37,10 +37,6 @@
 **Design & Simulation:**
 - `SolidWorks` `LTSpice` `Autolev`
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/gizemdogafiliz)
-- 📧 Email: gizemfiliz@sabanciuniv.edu
-- 🌍 Location: Milan, Italy
-
 ---
+
 ⚡ *"Building intelligent robots that can see, feel, and adapt to their environment"*
