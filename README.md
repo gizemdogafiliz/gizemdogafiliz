@@ -1,6 +1,6 @@
 ### Hi there, I'm Gizem! 👋
 
-Roboticist 🔹 Control Freak 🔹 Vision Alchemist 🔹 Wrench Observer 🔹 SE(3) Dweller 🔹 ∂V/∂t < 0
+Roboticist 🔹 Control Freak 🔹 Vision Alchemist 🔹 Feedforward Thinker 🔹 Wrench Observer 🔹 SE(3) Dweller 🔹 ∂V/∂t < 0
 
 ### 🛠 &nbsp;Tech Stack (mostly)
 
