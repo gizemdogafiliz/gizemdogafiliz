@@ -1,4 +1,4 @@
-# Hi there, I'm Gizem! 👋
+### Hi there, I'm Gizem! 👋
 
 ## 🎓 About Me
 - 🔭 Currently pursuing **MSc in Automation and Control Engineering** @ **Politecnico di Milano**
