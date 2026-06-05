@@ -37,6 +37,7 @@ Roboticist 🔹 Control Freak 🔹 Vision Alchemist 🔹 Feedforward Thinker �
 | Project | Description | Tags |
 |---------|-------------|------|
 | [🚁 Aerial Robotics: Hover to Contact](https://github.com/gizemdogafiliz/Aerial-Robotics-FromHoverToContact) | Full UAV stack on telekyb3/GenoM3 — tilt-hexarotor control + wall inspection | `Aerial` `Force Control` `Gazebo` |
+| [🛸 Obstacle-Aware Quadrotor NMPC](https://github.com/gizemdogafiliz/Obstacle-Aware-Quadrotor-NMPC) | Quaternion NMPC obstacle avoidance — in-MPC keep-out vs APF — plus a backflip with NMPC recovery | `NMPC` `acados` `Gazebo` |
 | [👁 Adaptive Switch Visual Servoing](https://github.com/gizemdogafiliz/Adaptive-Switch-ImageBasedVisualServoing) | IBVS controller handling 200°+ orientation mismatches, 27-34% faster convergence | `Visual Servoing` `MATLAB` `UR5` |
 | [🎯 Cart-Pole Swing-Up with JAX](https://github.com/gizemdogafiliz/CartPole-SwingUp-Control) | Neural network + Mixture-of-Experts controller for swing-up & stabilization | `JAX` `MuJoCo` `Deep Learning` |
 
