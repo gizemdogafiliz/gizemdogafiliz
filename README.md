@@ -1,7 +1,7 @@
 ### Hi there, I'm Gizem! 👋
 
 <p align="center">
-Roboticist 🔹 Control Freak 🔹 Vision Alchemist 🔹 Feedforward Thinker 🔹 Wrench Observer 🔹 SE(3)Dweller 🔹 ∂V/∂t < 0
+Roboticist 🔹 Control Freak 🔹 Vision Alchemist 🔹 Feedforward Thinker 🔹 SE(3)Dweller 🔹 ∂V/∂t < 0
 </p>
 
 ### 🛠 &nbsp;Tech Stack (mostly)
